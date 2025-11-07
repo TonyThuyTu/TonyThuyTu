@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=TonyThuyTu" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TonyThuyTu" alt="GitHub Streak" />
 </p>
 
 <p align="center">
