@@ -33,12 +33,10 @@
 
 ---
 
----
-
 ### 🛠️ Technologies I interested In
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,react,angular,bash,obsidian,figma,tailwind,go,rust,cs,dotnet,ocaml,lua,py,neovim,git,docker,mysql,mongodb,php,laravel,linux,arch,bun,vscode,windows,md" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,react,angular,figma,tailwind,neovim,git,docker,mysql,mongodb,php,laravel,vscode,windows" />
   </a>
 </p>
