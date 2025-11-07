@@ -1,13 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+There!+%F0%9F%91%8B+I'm+Dawie+Malmsteel;Welcome+to+my+GitHub+Profile!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+There!+%F0%9F%91%8B+I'm+Tony+Nguyen;Welcome+to+my+GitHub+Profile!+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <h3 align="center">🌟 Software Engineer | Game Enthusiast | Problem Solver 🌟</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DawieMalmsteel&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/DawieMalmsteel?label=Followers&style=social" alt="followers" />
-</p>
 
 ---
 
