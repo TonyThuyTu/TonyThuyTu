@@ -27,6 +27,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TonyThuyTu&theme=tokyonight&hide_border=true%22%20alt=%22GitHub%20Streak%20Stats%22" />
 </p>
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=TonyThuyTu" alt="GitHub Streak" /></a>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TonyThuyTu&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
