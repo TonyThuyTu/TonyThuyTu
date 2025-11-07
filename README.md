@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TonyThuyTu&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TonyThuyTu&theme=tokyonight&hide_border=true%22%20alt=%22GitHub%20Streak%20Stats%22" />
 </p>
 
 <p align="center">
