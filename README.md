@@ -34,6 +34,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,npm,nodejs,express,nextjs,react,angular,vue,figma,tailwind,bootstap,neovim,git,docker,mysql,mongodb,postgresql,php,laravel,vscode,windows,powershell,redis,postman" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,npm,nodejs,express,nextjs,react,angular,vue,figma,tailwind,bootstrap,neovim,git,docker,mysql,mongodb,postgresql,php,laravel,vscode,windows,powershell,redis,postman" />
   </a>
 </p>
